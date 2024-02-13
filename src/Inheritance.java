@@ -12,6 +12,7 @@ public class Inheritance {
         String result  = f.getIceCream("asd");
         f.getIceCreamByName("name");
 
+        System.out.println("Added fot git");
     }
 
 }
